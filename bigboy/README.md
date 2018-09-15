@@ -170,4 +170,4 @@ Working solution in [solve.py](solve.py)
 `flag{Y0u_Arrre_th3_Bi66Est_of_boiiiiis}`
 
 ## Credits
-Solved by: [@platy](https://github.com/platy)
+Solved by: [@PlatyPew](https://github.com/PlatyPew)
