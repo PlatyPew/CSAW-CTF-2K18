@@ -119,6 +119,7 @@ Let's set a breakpoint just before the _cmp_ instruction at address _0x004006a8_
 We can now run the program by doing `dc`. We can get the registers at the breakpoint by doing `dr eax`.
 
 ```
+[0x00400641]> db 0x004006a8
 [0x00400641]> dc
 Are you a big boiiiii??
 AAAABBBBCCCCDDDDEEEEFFFFGGGGHHHHIIIIJJJJKKKKLLLLMMMMNNNNOOOOPPPP
